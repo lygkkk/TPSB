@@ -18,7 +18,7 @@ namespace tpsb
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("1234567");
+            string str = "aaa";
         }
     }
 }
